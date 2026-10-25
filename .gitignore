@@ -1,0 +1,7 @@
+# private data: never commit
+known/
+refs/
+events/
+lock_cfg.json
+models/
+__pycache__/
